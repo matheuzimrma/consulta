@@ -1,0 +1,5 @@
+{
+  "name": "Agroterra Consulta de Impostos",
+  "description": "Uma aplicação inteligente para consulta e estimativa de impostos baseada no código NCM (Nomenclatura Comum do Mercosul) usando IA.",
+  "requestFramePermissions": []
+}
